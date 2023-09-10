@@ -42,7 +42,3 @@ def remove_task():
 
 #add_task()
 remove_task()
-# with open("doc.txt", "a") as file:
-#     file.write("good evening\n\r")
-
-# print("example")
